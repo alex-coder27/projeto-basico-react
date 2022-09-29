@@ -1,0 +1,12 @@
+.btn {
+    background-color: aqua;
+    margin-top: 10px;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
+.btn:hover{
+    background-color: aquamarine;
+    transition: ease-in-out 0.2s;
+    cursor: pointer;
+}

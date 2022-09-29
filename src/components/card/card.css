@@ -1,0 +1,7 @@
+.card {
+    border-radius: 7px;
+    border: 1px solid #000;
+    transition: 0.3s ease-in-out;
+    padding: 0px 5px;
+    text-align: center;
+}
